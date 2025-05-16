@@ -2,7 +2,8 @@
 👀 I’m passionate about Flutter and Dart  
 🌱 Currently deepening my skills in building cross-platform apps  
 💼 Open to collaboration on mobile and web projects  
-📫 You can reach me via [email](mailto:mhoseinre@gmail.com) or on [Telegram](https://t.me/your_username)  
+📫 You can reach me via [email](mailto:) or on [Telegram](https://t.me/your_username)  
+📨 email: mhoseinre@gmail.com
 
 <!---
 mhoseinre/mhoseinre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
